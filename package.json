@@ -1,0 +1,15 @@
+{
+  "name": "node-shell-workshop",
+  "version": "1.0.0",
+  "description": "learn how to script with shell node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jack & hiba",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "jack-cat": "lesson-1/cat.js",
+    "jack-ls": "lesson-1/ls.js"
+  }
+}
